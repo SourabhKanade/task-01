@@ -1,0 +1,18 @@
+html { top: 0 !important; }
+
+.page-content .dslca-add-modules-section-hook,
+.page-content .dslca-import-modules-section-hook,
+.dslc-notification.dslc-red {
+	background-color: #cc1602;
+}
+.page-content .dslca-add-modules-section-hook:hover,
+.page-content .dslca-import-modules-section-hook:hover {
+	background-color: #ab1501;
+}
+.page-content .dslc-modules-area-empty {
+	box-shadow: 0 0 0 2px #cdaf81 inset;
+	color: #cdaf81;
+}
+.page-content .dslc-modules-area-empty:after {
+	color: inherit;
+}
